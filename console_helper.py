@@ -1,7 +1,9 @@
-from typing import Dict
+__author__ = "David Antonucci"
+__version__ = "1.0.0"
 
 from colorama import Back, Fore, Style
 from enums import Color
+from typing import Dict
 
 
 class ConsoleHelper:
